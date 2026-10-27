@@ -1,0 +1,8 @@
+# ignore all log files
+*.log
+
+# ignore .env file
+.env
+
+# ignore all files in build directory
+build/
